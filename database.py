@@ -6,7 +6,7 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "employee_db",
     "user": "postgres",
-    "password": "PostGREsql",   
+    "password": "your_password",   
 }
 
 
